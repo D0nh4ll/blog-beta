@@ -1,7 +1,8 @@
 # Site settings
 title: Donghao's blog
 email: cinest8@gmail.com
-url: https://github.com/D0nh4ll/freelancer-blog/
+baseurl: "/freelancer-blog"
+url: "https://d0nh4ll.github.io"
 description: "no description"
 keywords: "leng,dary "
 skills: "Web Developer - English(if count) - Internet surfer"
@@ -61,4 +62,4 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: ""
+      layout: "post"
