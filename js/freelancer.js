@@ -35,3 +35,9 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$('#topNav').affix({
+    offset: {
+        top: 200
+    }
+});
