@@ -1,3 +1,51 @@
+/* Post Page Styles */
+#post {
+  padding: 100px 0;
+}
+
+.post-content {
+  margin-bottom: 40px;
+}
+
+.post-content h1 {
+  margin-bottom: 20px;
+  color: #{{ site.color.secondary }};
+}
+
+.post-content h2 {
+  margin: 30px 0 15px;
+  color: #{{ site.color.secondary }};
+}
+
+.post-content p {
+  margin-bottom: 20px;
+  line-height: 1.8;
+}
+
+.post-content ul, .post-content ol {
+  margin-bottom: 20px;
+  padding-left: 20px;
+}
+
+.post-content li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+.post-navigation {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.post-navigation .btn {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.post-navigation .btn i {
+  margin-right: 5px;
+}
+
 /* Thoughts Section Styles */
 .thoughts-list {
   margin-top: 30px;

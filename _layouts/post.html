@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body id="page-top" class="index">
+  {% include nav.html %}
+  
+  <!-- Post Content -->
+  <section id="post">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <article class="post-content">
+            <h1>{{ page.title }}</h1>
+            <div class="post-meta">
+              <span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span>
+              {% if page.tags %}
+              <span class="post-tags">
+                {% for tag in page.tags %}
+                <span class="tag">{{ tag }}</span>
+                {% endfor %}
+              </span>
+              {% endif %}
+            </div>
+            <hr class="star-primary">
+            {{ content }}
+          </article>
+          <div class="post-navigation">
+            <a href="{{ site.baseurl }}/#thoughts" class="btn btn-primary">
+              <i class="fa fa-arrow-left"></i> 返回文章列表
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% include footer.html %}
+  {% include js.html %}
+</body>
+</html> 
