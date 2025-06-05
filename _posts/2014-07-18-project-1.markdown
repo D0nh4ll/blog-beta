@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: post
+title: White Blood -- Oh Wonder
 modal-id: 1
-date: 2014-07-18
+date: 2024-03-21
 img: ytbtu.jpg
-alt: ytbtu
-project-date: July 2024
+alt: White Blood -- Oh Wonder
+project-date: March 2024
 client: Personal Project
-category: Web Development
-description: 这是一个个人项目展示。
+category: Music Video
+description: White Blood -- Oh Wonder
 ---
