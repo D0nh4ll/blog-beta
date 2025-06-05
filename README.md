@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Freelancer Jekyll theme  
 =========================
 
@@ -30,3 +31,6 @@ View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-the
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
+=======
+# blog-beta
+>>>>>>> 8fa2cb2d758989069edd11e2d27740c6bc22b746
