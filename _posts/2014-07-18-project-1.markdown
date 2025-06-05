@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: ytbtu.jpg
+alt: ytbtu
+project-date: July 2024
+client: Personal Project
+category: Web Development
+description: 这是一个个人项目展示。
+---
