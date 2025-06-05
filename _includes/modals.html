@@ -15,7 +15,16 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
+            {% if post.modal-id == 1 %}
+            <div class="video-preview">
+              <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+              <a href="https://www.youtube.com/watch?v=NcLgg5_qkd4" target="_blank" class="btn btn-primary watch-video-btn">
+                <i class="fa fa-play"></i> 观看视频
+              </a>
+            </div>
+            {% else %}
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            {% endif %}
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}

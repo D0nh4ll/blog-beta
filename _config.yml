@@ -1,7 +1,7 @@
 # Site settings
 title: Donghao's blog
 email: cinest8@gmail.com
-baseurl: "/freelancer-blog"
+baseurl: "/blog-beta"
 url: "https://d0nh4ll.github.io"
 description: "no description"
 keywords: "leng,dary "
@@ -53,7 +53,7 @@ credits: 'powered by Freelancer'
 
 # Build settings
 markdown: kramdown
-permalink: /thoughts/:title/
+permalink: /posts/:title/
 
 #for posts
 defaults:
