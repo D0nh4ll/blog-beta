@@ -2,7 +2,7 @@
 layout: post
 title: White Blood -- Oh Wonder
 modal-id: 1
-date: 2024-03-21
+date: 2024-03-21 15:30:00 +0800
 img: ytbtu.jpg
 alt: White Blood -- Oh Wonder
 project-date: March 2024
