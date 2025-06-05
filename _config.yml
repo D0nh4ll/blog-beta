@@ -53,7 +53,7 @@ credits: 'powered by Freelancer'
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /thoughts/:title/
 
 #for posts
 defaults:

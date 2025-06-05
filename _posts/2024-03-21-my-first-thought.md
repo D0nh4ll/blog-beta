@@ -4,7 +4,6 @@ title: "我的第一篇技术博客"
 date: 2024-03-21
 type: thought
 tags: [技术, 前端, 博客]
-permalink: /thoughts/my-first-thought
 ---
 
 # 欢迎来到我的技术博客

@@ -13,7 +13,7 @@
           {% for post in site.posts %}
             {% if post.type == 'thought' %}
             <article class="thought-item">
-              <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+              <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
               <div class="post-meta">
                 <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
                 {% if post.tags %}
@@ -27,7 +27,7 @@
               <div class="post-excerpt">
                 {{ post.excerpt | strip_html | truncatewords: 50 }}
               </div>
-              <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">阅读更多</a>
+              <a href="{{ post.url | relative_url }}" class="read-more">阅读更多</a>
             </article>
             {% endif %}
           {% endfor %}
