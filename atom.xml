@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>D0nh4ll&#39;s Blog</title>
+  
+  <subtitle>技术分享与生活随笔</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-06-07T16:00:57.532Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>D0nh4ll</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2025/06/08/hello-world/"/>
+    <id>http://example.com/2025/06/08/hello-world/</id>
+    <published>2025-06-07T16:00:57.532Z</published>
+    <updated>2025-06-07T16:00:57.532Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Love Me Now - Oh Wonder</title>
+    <link href="http://example.com/2025/06/07/Love%20Me%20Now%20-%20Oh%20Wonder/"/>
+    <id>http://example.com/2025/06/07/Love%20Me%20Now%20-%20Oh%20Wonder/</id>
+    <published>2025-06-07T12:10:46.000Z</published>
+    <updated>2025-06-07T16:06:58.900Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一首来自英国独立流行组合 Oh Wonder 的情感作品，收录于他们的第四张录音室专辑 <em>22 Break</em> 中，主题围绕情感裂痕、相互依赖与自我疗愈。</p><h2 id="视频信息"><a href="#视频信息" class="headerlink" title="视频信息"></a>视频信息</h2><ul><li>艺术家：Oh Wonder  </li><li>歌曲：Love-Me-Now  </li><li>专辑：22 Break  </li><li>发行时间：2021年10月29日  </li><li>类型：流行（Pop）  </li><li>风格：独立流行 &#x2F; 情感电子  </li><li>时长：约2分30秒  </li><li>唱片公司：Island Records &#x2F; Universal  </li><li>官方商店：<a href="https://ohwonder.lnk.to/StoreID">OhWonder.lnk.to&#x2F;StoreID</a>  </li><li>官方跟随链接：<a href="https://ohwonder.lnk.to/followID">ohwonder.lnk.to&#x2F;followID</a></li></ul><h2 id="视频链接"><a href="#视频链接" class="headerlink" title="视频链接"></a>视频链接</h2><p><a href="https://www.youtube.com/embed/uKKsh0_AVEQ">YouTube 视频链接</a></p><h2 id="音乐特点"><a href="#音乐特点" class="headerlink" title="音乐特点"></a>音乐特点</h2><ol><li>简洁、干净的电子节奏与键盘铺底  </li><li>情绪充沛的男女双人声  </li><li>温柔旋律中隐藏着不安与裂缝  </li><li>适合夜晚独听、反思和疗愈</li></ol><h2 id="创作背景"><a href="#创作背景" class="headerlink" title="创作背景"></a>创作背景</h2><p>Oh Wonder 在疫情封锁期间写下整张专辑 <em>22 Break</em>，记录他们面临感情终点的真实时刻。《Love Me Now》是其中情感张力最强烈的一首，表达了渴望在被误解和分离之前获得肯定与拥抱。</p><hr><blockquote><p>如果你喜欢这首歌，也推荐收听整张专辑《22 Break》，它以极度私人化的方式讲述了一段关系的崩塌与重生。 </p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一首来自英国独立流行组合 Oh Wonder 的情感作品，收录于他们的第四张录音室专辑 &lt;em&gt;22 Break&lt;/em&gt; 中，主题围绕情感裂痕、相互依赖与自我疗愈。&lt;/p&gt;
+&lt;h2 id=&quot;视频信息&quot;&gt;&lt;a href=&quot;#视频信息&quot; class=&quot;headerlink</summary>
+      
+    
+    
+    
+    <category term="音乐" scheme="http://example.com/categories/%E9%9F%B3%E4%B9%90/"/>
+    
+    
+    <category term="Oh Wonder" scheme="http://example.com/tags/Oh-Wonder/"/>
+    
+    <category term="音乐评论" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90%E8%AF%84%E8%AE%BA/"/>
+    
+    <category term="独立流行" scheme="http://example.com/tags/%E7%8B%AC%E7%AB%8B%E6%B5%81%E8%A1%8C/"/>
+    
+    <category term="情感电子" scheme="http://example.com/tags/%E6%83%85%E6%84%9F%E7%94%B5%E5%AD%90/"/>
+    
+    <category term="22 Break" scheme="http://example.com/tags/22-Break/"/>
+    
+    <category term="音乐赏析" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90%E8%B5%8F%E6%9E%90/"/>
+    
+    <category term="Love Me Now" scheme="http://example.com/tags/Love-Me-Now/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Don&#39;t Let The Neighbourhood Hear - Oh Wonder</title>
+    <link href="http://example.com/2025/06/05/Don&#39;t%20Let%20The%20Neighbourhood%20Hear%20-%20Oh%20Wonder/"/>
+    <id>http://example.com/2025/06/05/Don&#39;t%20Let%20The%20Neighbourhood%20Hear%20-%20Oh%20Wonder/</id>
+    <published>2025-06-05T13:13:24.000Z</published>
+    <updated>2025-06-07T16:06:41.426Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一首来自英国独立流行组合Oh Wonder的歌曲，收录于他们的专辑 <em>22 Break</em> 中。这首歌以细腻的情感描绘和真实的关系描写打动人心，展现了在情感破裂边缘的脆弱与克制。</p><h2 id="视频信息"><a href="#视频信息" class="headerlink" title="视频信息"></a>视频信息</h2><ul><li>艺术家：Oh Wonder  </li><li>歌曲：Don’t Let The Neighbourhood Hear  </li><li>发行时间：2021年10月1日  </li><li>类型：独立流行 &#x2F; 情感电子</li></ul><h2 id="视频链接"><a href="#视频链接" class="headerlink" title="视频链接"></a>视频链接</h2><p><a href="https://www.youtube.com/embed/1j9CZk3_gWo">YouTube 视频链接</a></p><h2 id="歌词赏析"><a href="#歌词赏析" class="headerlink" title="歌词赏析"></a>歌词赏析</h2><p>歌词细腻地刻画了一对恋人试图隐藏争吵、努力维持表面平静的情境。”Don’t let the neighbourhood hear us fight” 是歌曲的核心意象，既表达了对关系破裂的恐惧，也反映出对外界眼光的在意。整首歌通过低声倾诉的方式传递情感压抑与挣扎。</p><h2 id="音乐特点"><a href="#音乐特点" class="headerlink" title="音乐特点"></a>音乐特点</h2><ol><li>温柔克制的编曲  </li><li>感性的人声演绎  </li><li>缓慢渐进的电子节拍  </li><li>营造封闭空间感的制作风格</li></ol><h2 id="创作背景"><a href="#创作背景" class="headerlink" title="创作背景"></a>创作背景</h2><p>这首歌创作于Oh Wonder成员二人关系的低谷期，疫情封锁使他们被迫面对感情的裂痕。正如整张 <em>22 Break</em> 专辑的主题一样，这首歌记录了他们在情感边缘试图挽回的时刻，是对一段关系”挣扎而不愿放手”的真实写照。 </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一首来自英国独立流行组合Oh Wonder的歌曲，收录于他们的专辑 &lt;em&gt;22 Break&lt;/em&gt; 中。这首歌以细腻的情感描绘和真实的关系描写打动人心，展现了在情感破裂边缘的脆弱与克制。&lt;/p&gt;
+&lt;h2 id=&quot;视频信息&quot;&gt;&lt;a href=&quot;#视频信息&quot; class</summary>
+      
+    
+    
+    
+    <category term="音乐" scheme="http://example.com/categories/%E9%9F%B3%E4%B9%90/"/>
+    
+    
+    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+    <category term="Oh Wonder" scheme="http://example.com/tags/Oh-Wonder/"/>
+    
+    <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="Don&#39;t Let The Neighbourhood Hear" scheme="http://example.com/tags/Don-t-Let-The-Neighbourhood-Hear/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>White Blood - Oh Wonder</title>
+    <link href="http://example.com/2025/06/05/White%20Blood%20-%20Oh%20Wonder/"/>
+    <id>http://example.com/2025/06/05/White%20Blood%20-%20Oh%20Wonder/</id>
+    <published>2025-06-05T13:13:24.000Z</published>
+    <updated>2025-06-07T16:05:39.064Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一首来自英国双人组合 Oh Wonder 的歌曲，以其空灵的旋律和深情的歌词而闻名，是他们早期的重要代表作之一。</p><h2 id="视频信息"><a href="#视频信息" class="headerlink" title="视频信息"></a>视频信息</h2><ul><li>艺术家：Oh Wonder  </li><li>歌曲：White-Blood  </li><li>发行时间：2015年6月1日  </li><li>类型：流行（Pop）  </li><li>风格：独立流行 &#x2F; 氛围流行  </li><li>时长：4分17秒  </li><li>唱片公司：Caroline International  </li><li>格式：MP3 单曲，Promo，立体声  </li><li>封面设计：Steven Keating  </li><li>国家：英国</li></ul><h2 id="视频链接"><a href="#视频链接" class="headerlink" title="视频链接"></a>视频链接</h2><p><a href="https://www.youtube.com/embed/NcLgg5_qkd4">YouTube 视频链接</a></p><h2 id="歌词赏析"><a href="#歌词赏析" class="headerlink" title="歌词赏析"></a>歌词赏析</h2><p>歌词以”White Blood”（白色的血）这一抽象意象出发，象征纯洁、牺牲和深刻的情感纽带。整首歌用低声倾诉的语调描绘了一个人愿意为爱付出一切的状态，在情感表达上极为动人。</p><h2 id="音乐特点"><a href="#音乐特点" class="headerlink" title="音乐特点"></a>音乐特点</h2><ol><li>简约的电子钢琴与合成器编曲  </li><li>空灵的双人和声交叠  </li><li>缓慢而充满张力的节奏铺陈  </li><li>层次分明的声场营造，适合深夜独处时聆听</li></ol><h2 id="创作背景"><a href="#创作背景" class="headerlink" title="创作背景"></a>创作背景</h2><p>这首歌最初作为 Oh Wonder 2015 年”每月一首歌”项目中的第九首单曲发布，最终被收录进他们的同名首张专辑 <em>Oh Wonder</em>。创作期间，二人以家中简易录音室制作整张专辑，歌曲也因此保持了强烈的私密感与真诚情绪。 </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一首来自英国双人组合 Oh Wonder 的歌曲，以其空灵的旋律和深情的歌词而闻名，是他们早期的重要代表作之一。&lt;/p&gt;
+&lt;h2 id=&quot;视频信息&quot;&gt;&lt;a href=&quot;#视频信息&quot; class=&quot;headerlink&quot; title=&quot;视频信息&quot;&gt;&lt;/a&gt;视频信息&lt;/h2</summary>
+      
+    
+    
+    
+    <category term="音乐" scheme="http://example.com/categories/%E9%9F%B3%E4%B9%90/"/>
+    
+    
+    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+    <category term="Oh Wonder" scheme="http://example.com/tags/Oh-Wonder/"/>
+    
+    <category term="White Blood" scheme="http://example.com/tags/White-Blood/"/>
+    
+    <category term="歌曲" scheme="http://example.com/tags/%E6%AD%8C%E6%9B%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于我</title>
+    <link href="http://example.com/2025/06/05/about/"/>
+    <id>http://example.com/2025/06/05/about/</id>
+    <published>2025-06-05T13:13:24.000Z</published>
+    <updated>2025-06-07T16:07:11.040Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="个人简介"><a href="#个人简介" class="headerlink" title="个人简介"></a>个人简介</h2><p>你好,我是 D0nh4ll,我热爱编程、音乐，喜欢探索新技术,也热衷于开源贡献。</p><h2 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h2><h3 id="前端"><a href="#前端" class="headerlink" title="前端"></a>前端</h3><ul><li>三件套</li><li>hexo框架</li><li>Next.js&#x2F;Nuxt.js</li></ul><h3 id="后端"><a href="#后端" class="headerlink" title="后端"></a>后端</h3><ul><li>Python (Flask&#x2F;Django)</li><li>Node.js (Express&#x2F;Nest.js)</li></ul><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><ul><li>Git</li><li>Linux</li></ul><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><ul><li>GitHub: <a href="https://github.com/D0nh4ll">@D0nh4ll</a></li><li>Email: <a href="mailto:&#x63;&#105;&#x6e;&#101;&#x73;&#x74;&#56;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#46;&#x63;&#x6f;&#x6d;">cinest8@gmail.com</a></li></ul><h2 id="兴趣爱好"><a href="#兴趣爱好" class="headerlink" title="兴趣爱好"></a>兴趣爱好</h2><ul><li>技术分享</li><li>开源贡献</li><li>音乐欣赏</li><li>阅读</li></ul><h2 id="博客说明"><a href="#博客说明" class="headerlink" title="博客说明"></a>博客说明</h2><p>本博客使用 Hexo 框架和 NexT 主题构建,主要分享:</p><ul><li>技术文章</li><li>项目经验</li><li>学习笔记</li><li>生活随笔</li></ul><p>欢迎通过以下方式与我交流:</p><ul><li><a href="mailto:&#99;&#105;&#x6e;&#101;&#115;&#116;&#x38;&#x40;&#x67;&#109;&#97;&#105;&#108;&#46;&#x63;&#111;&#109;">发送邮件</a></li><li><a href="https://github.com/D0nh4ll/blog-beta/issues">GitHub Issues</a></li><li><a href="https://www.instagram.com/nowyou5eem1/">Instagram</a></li></ul><p>感谢访问我的博客！ </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;个人简介&quot;&gt;&lt;a href=&quot;#个人简介&quot; class=&quot;headerlink&quot; title=&quot;个人简介&quot;&gt;&lt;/a&gt;个人简介&lt;/h2&gt;&lt;p&gt;你好,我是 D0nh4ll,我热爱编程、音乐，喜欢探索新技术,也热衷于开源贡献。&lt;/p&gt;
+&lt;h2 id=&quot;技术栈&quot;&gt;&lt;a h</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇随笔</title>
+    <link href="http://example.com/2025/06/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E9%9A%8F%E7%AC%94/"/>
+    <id>http://example.com/2025/06/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E9%9A%8F%E7%AC%94/</id>
+    <published>2025-06-05T13:13:24.000Z</published>
+    <updated>2025-06-07T16:05:23.259Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是我开始写博客的第一天。创建这个博客的初衷是想要记录和分享我的想法、经验和学习过程。</p><h2 id="为什么选择写博客？"><a href="#为什么选择写博客？" class="headerlink" title="为什么选择写博客？"></a>为什么选择写博客？</h2><ul><li>拓展前端技术栈</li><li>记录音乐</li><li>记录感受</li></ul><h2 id="博客规划"><a href="#博客规划" class="headerlink" title="博客规划"></a>博客规划</h2><p>我计划在这个博客中分享以下内容：</p><ul><li>技术文章</li><li>生活随笔</li><li>读书笔记</li><li>音乐分享</li><li>学习心得</li><li>影视分享</li></ul><h2 id="期待"><a href="#期待" class="headerlink" title="期待"></a>期待</h2><p>希望通过写博客，能够：</p><ol><li>提高写作能力</li><li>帮助他人</li><li>享受音乐</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天是我开始写博客的第一天。创建这个博客的初衷是想要记录和分享我的想法、经验和学习过程。&lt;/p&gt;
+&lt;h2 id=&quot;为什么选择写博客？&quot;&gt;&lt;a href=&quot;#为什么选择写博客？&quot; class=&quot;headerlink&quot; title=&quot;为什么选择写博客？&quot;&gt;&lt;/a&gt;为什么选择写博</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
