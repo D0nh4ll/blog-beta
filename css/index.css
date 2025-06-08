@@ -2771,10 +2771,14 @@ figure.highlight pre .javascript .function {
 }
 .video-container {
   position: relative;
-  padding-bottom: 56.25%;
+  width: 100%;
   height: 0;
   overflow: hidden;
   margin: 1rem 0;
+  background: #000;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: padding-bottom 0.3s ease;
 }
 .video-container iframe {
   position: absolute;
@@ -2782,6 +2786,8 @@ figure.highlight pre .javascript .function {
   left: 0;
   width: 100%;
   height: 100%;
+  border: none;
+  background: #000;
 }
 .relatedPosts {
   margin-top: 40px;
