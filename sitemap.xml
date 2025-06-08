@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://d0nh4ll.github.io/blog-beta/data/stats.json</loc>
+    
+    <lastmod>2025-06-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://d0nh4ll.github.io/blog-beta/about/index.html</loc>
     
     <lastmod>2025-06-08</lastmod>
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://d0nh4ll.github.io/blog-beta/3851448632/</loc>
+    <loc>https://d0nh4ll.github.io/blog-beta/1243066710/</loc>
     
     <lastmod>2025-06-07</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://d0nh4ll.github.io/blog-beta/1243066710/</loc>
+    <loc>https://d0nh4ll.github.io/blog-beta/3851448632/</loc>
     
     <lastmod>2025-06-07</lastmod>
     
