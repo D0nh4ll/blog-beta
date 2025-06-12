@@ -1,3 +1,4 @@
+https://d0nh4ll.github.io/blog-beta/ai-courseware
 https://d0nh4ll.github.io/blog-beta/without-you-oh-wonder.html
 https://d0nh4ll.github.io/blog-beta/dont-let-the-neighbourhood-hear-oh-wonder.html
 https://d0nh4ll.github.io/blog-beta/love-me-now-oh-wonder.html
@@ -9,7 +10,7 @@ https://d0nh4ll.github.io/blog-beta/tags/index.html
 https://d0nh4ll.github.io/blog-beta/404.html
 https://d0nh4ll.github.io/blog-beta
 https://d0nh4ll.github.io/blog-beta/tags/Oh-Wonder/
-https://d0nh4ll.github.io/blog-beta/tags/Love-Me-Now/
+https://d0nh4ll.github.io/blog-beta/tags/Don-t-Let-The-Neighbourhood-Hear/
 https://d0nh4ll.github.io/blog-beta/tags/%E9%9F%B3%E4%B9%90/
 https://d0nh4ll.github.io/blog-beta/tags/%E7%8B%AC%E7%AB%8B%E6%B5%81%E8%A1%8C/
 https://d0nh4ll.github.io/blog-beta/tags/Dream-Pop/
@@ -20,7 +21,10 @@ https://d0nh4ll.github.io/blog-beta/tags/22-Break/
 https://d0nh4ll.github.io/blog-beta/tags/%E9%9F%B3%E4%B9%90%E8%B5%8F%E6%9E%90/
 https://d0nh4ll.github.io/blog-beta/tags/%E6%AD%8C%E8%AF%8D%E8%A7%A3%E6%9E%90/
 https://d0nh4ll.github.io/blog-beta/tags/%E9%9F%B3%E4%B9%90%E6%8E%A8%E8%8D%90/
-https://d0nh4ll.github.io/blog-beta/tags/Don-t-Let-The-Neighbourhood-Hear/
+https://d0nh4ll.github.io/blog-beta/tags/Love-Me-Now/
+https://d0nh4ll.github.io/blog-beta/tags/AI/
+https://d0nh4ll.github.io/blog-beta/tags/%E8%AF%BE%E4%BB%B6/
+https://d0nh4ll.github.io/blog-beta/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/
 https://d0nh4ll.github.io/blog-beta/tags/White-Blood/
 https://d0nh4ll.github.io/blog-beta/tags/2015/
 https://d0nh4ll.github.io/blog-beta/tags/Without-You/
@@ -28,4 +32,5 @@ https://d0nh4ll.github.io/blog-beta/tags/%E5%8D%9A%E5%AE%A2/
 https://d0nh4ll.github.io/blog-beta/tags/%E9%9A%8F%E7%AC%94/
 https://d0nh4ll.github.io/blog-beta/tags/%E7%94%9F%E6%B4%BB/
 https://d0nh4ll.github.io/blog-beta/categories/%E9%9F%B3%E4%B9%90/
+https://d0nh4ll.github.io/blog-beta/categories/AI/
 https://d0nh4ll.github.io/blog-beta/categories/%E9%9A%8F%E7%AC%94/
